@@ -9,5 +9,5 @@ This website showcases my skills, projects, and accomplishments. It is built usi
 <b>Projects:</b> Showcasing my key projects with descriptions and links to live demos or repositories.<br>
 <b>Contact:</b> A simple contact form to get in touch with me.<br>
 <h2>Technologies Used</h2>
--->HTML5
--->CSS3
+-->HTML5<br>
+-->CSS
